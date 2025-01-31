@@ -1,0 +1,39 @@
+body {
+  background-color: antiquewhite;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.kid {
+  width: 250px;
+  height: 300px;
+}
+.minus {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+.plus {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+.addToCart {
+  height: 30px;
+}
+.btnMenu {
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  width: 250px;
+  height: 300px;
+}
+.resetCart {
+  height: 30px;
+  text-align: center;
+}
+.card {
+  border: 2px solid gray;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}

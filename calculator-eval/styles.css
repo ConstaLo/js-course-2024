@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn {
+  width: 55px;
+  height: 55px;
+  margin: 5px;
+}
+.calcWindow {
+  height: 55px;
+  border: 1px solid grey;
+}
+.calc {
+  width: 274px;
+}

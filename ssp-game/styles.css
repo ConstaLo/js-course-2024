@@ -1,0 +1,12 @@
+body {
+  background-color: antiquewhite;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn {
+  width: 90px;
+  height: 55px;
+  margin: 5px;
+}
+.output {
+  height: 55px;
+}
